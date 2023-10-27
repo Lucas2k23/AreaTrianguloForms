@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaTrianguloForms", "AreaTrianguloForms\AreaTrianguloForms.csproj", "{9E3CFEEA-19EF-4C7F-BB09-0E0D3F5DB329}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E3CFEEA-19EF-4C7F-BB09-0E0D3F5DB329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E3CFEEA-19EF-4C7F-BB09-0E0D3F5DB329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E3CFEEA-19EF-4C7F-BB09-0E0D3F5DB329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E3CFEEA-19EF-4C7F-BB09-0E0D3F5DB329}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA4EBE5D-E6A3-451E-AF10-33C2B544B519}
+	EndGlobalSection
+EndGlobal
